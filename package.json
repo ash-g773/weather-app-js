@@ -1,0 +1,22 @@
+{
+    "name": "test-js-dataops",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest --watchAll --verbose"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "csv-parser": "^3.2.0",
+        "dayjs": "^1.11.18",
+        "dotenv": "^17.2.3",
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "jest": "^30.3.0"
+    }
+}
