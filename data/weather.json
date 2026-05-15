@@ -5,12 +5,6 @@
   },
   "weather": [
     {
-      "id": 301,
-      "main": "Drizzle",
-      "description": "drizzle",
-      "icon": "09d"
-    },
-    {
       "id": 701,
       "main": "Mist",
       "description": "mist",
@@ -19,24 +13,24 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 28.99,
-    "feels_like": 35.61,
-    "temp_min": 28.99,
-    "temp_max": 28.99,
+    "temp": 29.99,
+    "feels_like": 36.99,
+    "temp_min": 29.99,
+    "temp_max": 29.99,
     "pressure": 1006,
     "humidity": 84,
     "sea_level": 1006,
-    "grnd_level": 1006
+    "grnd_level": 1005
   },
-  "visibility": 5000,
+  "visibility": 4500,
   "wind": {
-    "speed": 4.63,
-    "deg": 320
+    "speed": 6.17,
+    "deg": 300
   },
   "clouds": {
-    "all": 75
+    "all": 40
   },
-  "dt": 1778832840,
+  "dt": 1778841628,
   "sys": {
     "type": 1,
     "id": 9226,
@@ -48,5 +42,5 @@
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-15T08:18:15.718Z"
+  "_last_updated_utc": "2026-05-15T10:40:28.598Z"
 }
