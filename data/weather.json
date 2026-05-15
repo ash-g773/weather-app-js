@@ -8,7 +8,7 @@
       "id": 701,
       "main": "Mist",
       "description": "mist",
-      "icon": "50n"
+      "icon": "50d"
     }
   ],
   "base": "stations",
@@ -17,20 +17,20 @@
     "feels_like": 25.99,
     "temp_min": 25.99,
     "temp_max": 25.99,
-    "pressure": 1006,
+    "pressure": 1005,
     "humidity": 83,
-    "sea_level": 1006,
-    "grnd_level": 1005
+    "sea_level": 1005,
+    "grnd_level": 1006
   },
-  "visibility": 5000,
+  "visibility": 2500,
   "wind": {
-    "speed": 2.06,
-    "deg": 120
+    "speed": 2.57,
+    "deg": 60
   },
   "clouds": {
-    "all": 75
+    "all": 100
   },
-  "dt": 1778801709,
+  "dt": 1778808411,
   "sys": {
     "type": 1,
     "id": 9226,
@@ -42,5 +42,5 @@
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-14T23:35:09.644Z"
+  "_last_updated_utc": "2026-05-15T01:26:51.329Z"
 }
