@@ -22,15 +22,15 @@
     "sea_level": 1006,
     "grnd_level": 1005
   },
-  "visibility": 4500,
+  "visibility": 5000,
   "wind": {
-    "speed": 6.17,
-    "deg": 300
+    "speed": 5.14,
+    "deg": 310
   },
   "clouds": {
     "all": 40
   },
-  "dt": 1778841628,
+  "dt": 1778847988,
   "sys": {
     "type": 1,
     "id": 9226,
@@ -42,5 +42,5 @@
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-15T10:40:28.598Z"
+  "_last_updated_utc": "2026-05-15T12:26:28.070Z"
 }
