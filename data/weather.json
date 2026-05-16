@@ -17,10 +17,10 @@
     "feels_like": 32.54,
     "temp_min": 27.99,
     "temp_max": 27.99,
-    "pressure": 1008,
+    "pressure": 1007,
     "humidity": 83,
-    "sea_level": 1008,
-    "grnd_level": 1007
+    "sea_level": 1007,
+    "grnd_level": 1006
   },
   "visibility": 6000,
   "wind": {
@@ -30,17 +30,17 @@
   "clouds": {
     "all": 20
   },
-  "dt": 1778952909,
+  "dt": 1778956557,
   "sys": {
     "type": 1,
     "id": 9226,
     "country": "IN",
-    "sunrise": 1778891606,
-    "sunset": 1778936649
+    "sunrise": 1778977999,
+    "sunset": 1779023060
   },
   "timezone": 19800,
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-16T17:35:09.165Z"
+  "_last_updated_utc": "2026-05-16T18:35:57.697Z"
 }
