@@ -20,17 +20,17 @@
     "pressure": 1008,
     "humidity": 83,
     "sea_level": 1008,
-    "grnd_level": 1008
+    "grnd_level": 1007
   },
   "visibility": 6000,
   "wind": {
-    "speed": 2.06,
-    "deg": 10
+    "speed": 2.57,
+    "deg": 360
   },
   "clouds": {
     "all": 20
   },
-  "dt": 1778949241,
+  "dt": 1778952909,
   "sys": {
     "type": 1,
     "id": 9226,
@@ -42,5 +42,5 @@
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-16T16:34:01.347Z"
+  "_last_updated_utc": "2026-05-16T17:35:09.165Z"
 }
