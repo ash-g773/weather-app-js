@@ -24,13 +24,14 @@
   },
   "visibility": 7000,
   "wind": {
-    "speed": 7.72,
-    "deg": 320
+    "speed": 5.14,
+    "deg": 320,
+    "gust": 10.29
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1778929077,
+  "dt": 1778932381,
   "sys": {
     "type": 1,
     "id": 9226,
@@ -42,5 +43,5 @@
   "id": 1254163,
   "name": "Trivandrum",
   "cod": 200,
-  "_last_updated_utc": "2026-05-16T10:57:57.998Z"
+  "_last_updated_utc": "2026-05-16T11:53:01.152Z"
 }
